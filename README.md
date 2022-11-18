@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @patient2477
 - 👀 I’m interested in Cisco learning
-- 🌱 I’m currently learning Cisco CCNP Encor
+- 🌱 I’m currently learning Cisco CCNP ensld
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
